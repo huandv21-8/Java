@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<studentList>
+<student>
+		<rollNo>12</rollNo>
+		<fullname>huan</fullname>
+		<address>thang loi</address>
+		<gender>Male</gender>
+	</student>
+</studentList>
